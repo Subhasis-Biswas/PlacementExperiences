@@ -22,9 +22,11 @@ Create a folder in `personal_profiles_remarks`  with name `<your_name>`. Put you
 
 
 -----------------------------------
-Maintainance
+Maintenance
 -----------------------------------
 
 We'll try to periodically commit on GitHub to track the changes across the entire season. Anyways, that's optional and if not done, won't impact the process in any way.
+
+If you're willing to maintain the GitHub repo, just fork this repository and sync the latest changes of the OneDrive folder, then submit a pull request.
 -----------------------------------
 
