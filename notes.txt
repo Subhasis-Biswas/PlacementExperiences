@@ -5,6 +5,7 @@ HOW TO WRITE YOUR EXPERIENCE
 * Navigate to `main/<company_name>/<role_name>` and create/modify file `common.docx`. Write your experiences within the file. If you want to add your experience separately, create a file with your name. 
 
 If folder does not exist beforehand for your company or role, create one according to the naming convention.
+Add pdf/word file of JD in the same folder along with common.docx
 
 --
 
@@ -29,6 +30,8 @@ We'll try to periodically commit on GitHub to track the changes across the entir
 If you're willing to maintain the GitHub repo, just fork this repository and sync the latest changes of the OneDrive folder, then submit a pull request.
 
 Anyways, we'll try to perform minimal commits since .docx is treated as a binary and any changes to the file is essentially resetting the entire file from scratch.
+
+Link to Repository: https://github.com/Subhasis-Biswas/PlacementExperiences
 
 -----------------------------------
 
